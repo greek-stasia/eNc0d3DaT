@@ -1,3 +1,6 @@
-# encode.github.io
+# Encoding Conversions
 
-# Application to understand encodings
+### Glyphs ->
+### Characters ->
+### Code Points ->
+### Binary Encoding
