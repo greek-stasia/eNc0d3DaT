@@ -24,7 +24,7 @@ layout: default
         </div>
         <div class="input-field col s6">
           <input placeholder="Codepoints" id="cp" type="text" class="validate" >
-          <button class="btn waves-effect waves-light" type="submit" onClick="cpEnter()">Submit
+          <button class="btn indigo waves-effect waves-light" type="submit" onClick="cpEnter()">Submit
              <i class="material-icons right">send</i>
           </button>
         </div>
