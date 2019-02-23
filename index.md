@@ -31,7 +31,7 @@ layout: default
            <input placeholder="Codepoints" id="cp" type="text" class="validate" >
          </div>
          <div class="col s2">
-           <button class="indigo btn waves-effect" style="padding:10px;" type="submit" onClick="cpEnter()">Submit
+           <button class="indigo btn waves-effect" style="padding:0 16px;border-radius:2px;" type="submit" onClick="cpEnter()">Submit
               <i class="material-icons right">send</i>
            </button>
          </div>
