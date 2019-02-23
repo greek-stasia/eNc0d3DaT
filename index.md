@@ -7,7 +7,7 @@ layout: default
  <div class="row">
     <form class="col s12">
       <div class="row">
-        <div class="col s3">
+        <div class="col s3" markdown="1">
           ### Glyphs
         </div>
         <div class="input-field col s6">
