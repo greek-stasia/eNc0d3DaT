@@ -12,6 +12,11 @@ layout: default
         <div class="input-field col s6">
           <input placeholder="Glyph" id="glyph" type="text" class="validate">
         </div>
+       <div class="col s2">
+           <button class="indigo btn waves-effect" style="padding:10px;" type="submit" onClick="glyphEnter()">Submit
+              <i class="material-icons right">send</i>
+           </button>
+         </div>
       </div>
   </form>
 </div>
@@ -26,13 +31,13 @@ layout: default
            <input placeholder="Codepoints" id="cp" type="text" class="validate" >
          </div>
          <div class="col s2">
-           <button class="indigo btn waves-effect waves-light" type="submit" onClick="cpEnter()">Submit
+           <button class="indigo btn waves-effect" style="padding:10px;" type="submit" onClick="cpEnter()">Submit
               <i class="material-icons right">send</i>
            </button>
          </div>
       </div>
   </form>
-</div>indigo
+</div>
  <div class="row">
     <form class="col s12">
       <div class="row">
@@ -42,6 +47,11 @@ layout: default
         <div class="input-field col s6">
           <input placeholder="Binary" id="be" type="text" class="validate">
         </div>
+       <div class="col s2">
+           <button class="indigo btn waves-effect" style="padding:10px;" type="submit" onClick="beEnter()">Submit
+              <i class="material-icons right">send</i>
+           </button>
+         </div>
       </div>
   </form>
 </div>
