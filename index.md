@@ -24,13 +24,13 @@ layout: default
         </div>
         <div class="input-field col s6">
           <input placeholder="Codepoints" id="cp" type="text" class="validate" >
-          <button class="btn indigo waves-effect waves-light" type="submit" onClick="cpEnter()">Submit
+          <button class="waves-effect waves-light" type="submit" onClick="cpEnter()">Submit
              <i class="material-icons right">send</i>
           </button>
         </div>
       </div>
   </form>
-</div>
+</div>indigo
  <div class="row">
     <form class="col s12">
       <div class="row">
