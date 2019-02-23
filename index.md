@@ -13,7 +13,8 @@ layout: default
         </div>
       </div>
   </form>
- </div>
+</div>
+
 ### Characters:
 ### Code Points:
 ### Binary Encoding:
