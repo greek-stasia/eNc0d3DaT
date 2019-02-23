@@ -3,8 +3,7 @@ layout: default
 ---
 
 
-
-### Glyphs:   
+  
  <div class="row">
     <form class="col s12">
       <div class="row">
