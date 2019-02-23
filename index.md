@@ -2,9 +2,20 @@
 layout: default
 ---
 
-# Encoding Conversions
 
-### Glyphs ->
+
+### Glyphs:
+ <div class="row">
+    <form class="col s12">
+      <div class="row">
+        <div class="input-field col s6">
+          <input placeholder="Placeholder" id="first_name" type="text" class="validate">
+          <label for="first_name">Glyphs</label>
+        </div>
+      </div>
+  </form>
+ </div>
+        
 ### Characters ->
 ### Code Points ->
 ### Binary Encoding
