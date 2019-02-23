@@ -11,7 +11,7 @@ layout: default
           ### Glyphs
         </div>
         <div class="input-field col s6">
-          <input placeholder=""Glyph" id="glyph" type="text" class="validate">
+          <input placeholder="Glyph" id="glyph" type="text" class="validate">
         </div>
       </div>
   </form>
