@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<script src="./conversion_logic.js"></script>
 
  <div class="row">
     <form class="col s12">
@@ -26,7 +26,7 @@ layout: default
            <input placeholder="Codepoints" id="cp" type="text" class="validate" >
          </div>
          <div class="col s2">
-           <button class="waves-effect waves-light" type="submit" onClick="cpEnter()">Submit
+           <button class="indigo btn waves-effect waves-light" type="submit" onClick="cpEnter()">Submit
               <i class="material-icons right">send</i>
            </button>
          </div>
