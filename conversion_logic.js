@@ -8,6 +8,9 @@ function cpEnter() {
   var codepoint = document.getElementById("cp").value;
   document.getElementById("glyph").value=String.fromCodePoint(codepoint);
   document.getElementById("be").value=codepoint.toString(2);
+  console.log(codepoint);
+  console.log(typeof codepoint);
+  console.log(codepoint.toString(2));
 }
 
 function beEnter() {
