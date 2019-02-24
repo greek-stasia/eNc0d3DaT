@@ -1,8 +1,8 @@
 
 function glyphEnter() {
   var glyph = document.getElementById("glyph").value;
-  var binary = document.getElementById("be").value;
-  var codepoint = document.getElementById("cp").value;
+  document.getElementById("cp").value= glyph.codePointAt(0);
+  document.getElementById("be").value = parseInt(glyph.codePointAt(0),10).toString(2);;
 }
 function cpEnter() {
   var codepoint = document.getElementById("cp").value;
